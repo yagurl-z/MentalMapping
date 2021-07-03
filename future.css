@@ -1,0 +1,13 @@
+h1{
+  font-family: 'Dancing Script', cursive;
+  color: black;
+}
+body{
+  background: #f9e4b7;
+}
+p{
+  cfont-family: 'Raleway', sans-serif;
+  color: black;
+  padding-left: 50px;
+  padding-right: 50px;
+}
